@@ -1,0 +1,60 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.red{
+    
+    background-color: red;
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+}
+.blue{
+   
+    background-color: blue;
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+}
+.green{
+    background-color: green;
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+}
+.yellow{
+    background-color: yellow;
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+}
+.orange{
+    background-color: orange;
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+}
+.purple{
+    background-color:purple;
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+}
+.pink{
+    background-color: pink;
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+}
+.brown{
+    background-color: brown;
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+}
+.maroon{
+    background-color:rgb(141, 6, 51);
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+}
